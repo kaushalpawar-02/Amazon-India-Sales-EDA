@@ -11,7 +11,9 @@ This project is an Exploratory Data Analysis (EDA) of Amazon India’s domestic 
 
 ## 🖼️ Sample Visuals
 ![Sales Amount Distribution](Images/Sales Amount Distribution.png)
+
 ![Category wise Sales](Images/Category wise Sales.png)
+
 ![Month wise Quantity Ordered](Images/Month wise Quantity Ordered.png)
 
 📊 Future Work
