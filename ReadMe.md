@@ -10,11 +10,11 @@ This project is an Exploratory Data Analysis (EDA) of Amazon India’s domestic 
 - 🧹 Categorizing cities into Tier 1, 2, and 3 for granular insights
 
 ## 🖼️ Sample Visuals
-![Sales Amount Distribution](Images/Sales Amount Distribution.png)
+![Sales Amount Distribution](Images/Sales_Amount_Distribution.png)
 
-![Category wise Sales](Images/Category wise Sales.png)
+![Category wise Sales](Images/Category_wise_Sales.png)
 
-![Month wise Quantity Ordered](Images/Month wise Quantity Ordered.png)
+![Month wise Quantity Ordered](Images/Month_wise_Quantity_Ordered.png)
 
 📊 Future Work
 A Power BI dashboard will be created using the same dataset to provide interactive visualizations.
